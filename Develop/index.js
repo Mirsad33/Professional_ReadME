@@ -1,9 +1,9 @@
 // TODO: Include packages needed for this application
 const fs = require('fs')
 const inquirer = require('inquirer')
-const generateMarkdown = require('./utils/generateMarkdown')
+const generateMarkdown = require('./develop/utils/generateMarkdown')
+
 // TODO: Create an array of questions for user input
-//WHEN I enter a description, installation instructions, usage information, contribution guidelines, and test instructions
 const questions = [
     {
         type: 'input',
@@ -28,8 +28,21 @@ const questions = [
         message: 'Enter instalation instruction'
     },
     {
-        type
+        type: 'input',
+        name: 'email',
+        message: 'Please type you email address'
+    },
+    {
+        type: 'input',
+        name: 'usage',
+        message: 'Please enter how someone can use your app'
+    },
+    {
+        type: 'input',
+        name: 'liveDemo',
+        message: 'Plese enter URL to a live demo of your project(leave blank if none)'
     }
+
 ];
 
 // TODO: Create a function to write README file
