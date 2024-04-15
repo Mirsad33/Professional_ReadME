@@ -61,6 +61,6 @@ To run tests for the Professional README Generator, follow these steps:
 
 If you have any questions about the Professional README Generator, please contact me:
 
-- GitHub: [Your GitHub Username](https://github.com/your-Mirsad33)
+- GitHub: [Your GitHub Username](https://github.com/Mirsad33)
 - Email: [Your Email Address](mabedinoski3387@gmail.com)
 

@@ -1,40 +1,38 @@
 
-  # d
+  # Mirsad App
   
   <h1>#Description</h1>
 
-  d
-
   
 
   
-  <h1>Deployment</h1>
-  Live Demo: ([DEMO >](d))
+
+  
 
   <h1>#Usage</h1>
 
-  d
+  By downloading in app store
 
   <h1>#Contact</h1>
 
-  Email: d
+  Email: mabedinoski3387@gmail.com
 
   <h1>#Credits</h1>
   
   undefined
 
-  ![GitHub license](https://img.shields.io/badge/License-No License-red.svg)
+  ![GitHub license](https://img.shields.io/badge/License-MIT-red.svg)
 
   <h1>#License</h1>
 
-  ![GitHub license](https://img.shields.io/badge/License-No License-red.svg)
+  ![GitHub license](https://img.shields.io/badge/License-MIT-red.svg)
 
-  Licensed under the No License license
+  Licensed under the MIT license
   
 
 ## Description
 
-d
+
 
 ## Table of Contents (Optional)
 
