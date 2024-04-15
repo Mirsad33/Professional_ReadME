@@ -1,63 +1,66 @@
 
-  # Mirsad
-  ![GitHub license](https://img.shields.io/badge/License-MIT-red.svg)
-  
+# Professional README Generator
 
 ## Description
 
-app
+The Professional README Generator is a command-line application built with Node.js that dynamically generates a professional README.md file based on user input. It prompts the user for information about their project, such as the project title, description, installation instructions, usage information, contribution guidelines, and license, and generates a README file with the provided information.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+To install the Professional README Generator, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Install dependencies by running the following command:
+
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use the Professional README Generator, follow these steps:
+
+1. Navigate to the project directory in your terminal.
+2. Run the following command:
 
 
-
-   
-    ![alt text](assets/images/screenshot.png)
-   
-
-## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+3. Follow the prompts to enter information about your project.
+4. Once you've entered all the information, the application will generate a README.md file in the project directory.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+This project is licensed under the MIT license.
 
----
+## Contributing
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make changes and commit them to your branch.
+4. Push your changes to your fork.
+5. Submit a pull request.
 
 ## Tests
+
+To run tests for the Professional README Generator, follow these steps:
+
+1. Navigate to the project directory in your terminal.
+2. Run the following command: npm init -y 
+3. Install any necessary dependencies by running: npm install 
+
+
+## Questions
+
+If you have any questions about the Professional README Generator, please contact me:
+
+- GitHub: [Your GitHub Username](https://github.com/your-Mirsad33)
+- Email: [Your Email Address](mabedinoski3387@gmail.com)
+
